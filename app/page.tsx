@@ -6,7 +6,7 @@ export default function HomePage() {
       <span className='flex items-center justify-center flex-grow text-5xl'>
         Hello, World!
       </span>
-      <Link className='flex items-center justify-center' href='/about'>
+      <Link className='flex items-center justify-center mb-6' href='/about'>
         About
       </Link>
     </main>
